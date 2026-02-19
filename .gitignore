@@ -1,0 +1,11 @@
+# Source JP2 sheets (re-downloadable from sources.txt)
+cities/*/source/
+
+# Scratch/diagnostic images from stitching sessions
+cities/*/*.jpg
+cities/*/*.png
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
